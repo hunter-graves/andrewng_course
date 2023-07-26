@@ -12,7 +12,6 @@ I am doing it in `Swift`
 Aaron is doing it in `Go`:
 github.com/aclander/gradient-descent
 
-
 ### Current Results
 
 2 sig figs:
@@ -29,3 +28,24 @@ expected output:
 
 ### Conclusion
 close enough for now, using 2 sig fig
+
+### Notes + Math
+
+#### w takes the form
+<img width="707" alt="Screen Shot 2023-07-25 at 11 26 47 PM" src="https://github.com/hunter-graves/andrewng_course/assets/8101155/02c45414-44bb-4093-9f97-23593e5b5853">
+
+##### b takes the same form except it's `d/db`
+
+#### y hat = (wx + b) so we can substitute and use chain rule
+<img width="715" alt="Screen Shot 2023-07-25 at 11 26 59 PM" src="https://github.com/hunter-graves/andrewng_course/assets/8101155/a5d22dc0-7749-4d34-9826-3e6d823e6c84">
+
+#### apply chain rule
+##### reduce w and b which both take the following forms  
+<img width="722" alt="Screen Shot 2023-07-25 at 11 26 21 PM" src="https://github.com/hunter-graves/andrewng_course/assets/8101155/60e36fe0-2105-45f7-b08c-d478467b9801">
+
+
+
+
+
+
+
