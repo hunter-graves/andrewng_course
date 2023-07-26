@@ -32,9 +32,8 @@ close enough for now, using 2 sig fig
 ### Notes + Math
 
 #### y hat = (wx + b) so we can substitute and use chain rule
-note: m = n 😅
+![image](https://github.com/hunter-graves/andrewng_course/assets/8101155/2b95078b-3070-44dd-9f07-138b0c86d64f)
 
-<img width="715" alt="Screen Shot 2023-07-25 at 11 26 59 PM" src="https://github.com/hunter-graves/andrewng_course/assets/8101155/a5d22dc0-7749-4d34-9826-3e6d823e6c84">
 
 #### apply chain rule
 ##### reduce w and b which both take the following forms  
