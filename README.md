@@ -31,13 +31,6 @@ close enough for now, using 2 sig fig
 
 ### Notes + Math
 
-#### w takes the form
-note: m = n 😅
-
-<img width="707" alt="Screen Shot 2023-07-25 at 11 26 47 PM" src="https://github.com/hunter-graves/andrewng_course/assets/8101155/02c45414-44bb-4093-9f97-23593e5b5853">
-
-##### b takes the same form except it's `d/db`
-
 #### y hat = (wx + b) so we can substitute and use chain rule
 note: m = n 😅
 
