@@ -1,4 +1,7 @@
-# andrewng_course
+# andrewng_course 
+## gradient descent from scratch in swift
+## more to come later...
+
 andrew ng course
 
 Coding with friends
