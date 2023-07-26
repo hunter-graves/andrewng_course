@@ -48,7 +48,7 @@ note: m = n 😅
 <img width="722" alt="Screen Shot 2023-07-25 at 11 26 21 PM" src="https://github.com/hunter-graves/andrewng_course/assets/8101155/60e36fe0-2105-45f7-b08c-d478467b9801">
 
 
-#### adding in the scripts which denote `prev` and `i`th elements respectively
+#### adding in the scripts which denote `next`,`prev`, and `i`th elements respectively
 
 <img width="719" alt="Screen Shot 2023-07-25 at 11 34 47 PM" src="https://github.com/hunter-graves/andrewng_course/assets/8101155/208515cb-7799-4ff2-8c1d-9db03d1731f1">
 
