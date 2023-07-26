@@ -2,5 +2,9 @@
 andrew ng course
 
 Coding with friends
-Aaron is doing it in Go:
+
+
+I am doing it in `Swift`
+
+Aaron is doing it in `Go`:
 github.com/aclander/gradient-descent
