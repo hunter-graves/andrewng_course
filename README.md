@@ -14,7 +14,7 @@ github.com/aclander/gradient-descent
 
 ### Current Results
 
-2 sig figs:
+2 sig figs (for `d/dw` and `d/db`):
 ```f(x) = 1.1689795552387916x + 3.1275852087358076```
 
 ![Screen Shot 2023-07-25 at 11 00 23 PM](https://github.com/hunter-graves/andrewng_course/assets/8101155/65a3f93f-ade4-4344-99bc-b4b7c6692e50)
